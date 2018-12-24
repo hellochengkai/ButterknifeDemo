@@ -1,4 +1,4 @@
-package com.hellochengkai.demo.butterknifedemo;
+package com.hellochengkai.demo.butterknifedemo.myhBind;
 
 import android.support.annotation.IdRes;
 
@@ -13,7 +13,7 @@ import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)
-public @interface BindViewAble {
+public @interface MyBindView {
     @IdRes
     int id();
 }
