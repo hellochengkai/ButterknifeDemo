@@ -7,16 +7,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.hellochengkai.demo.butterknifedemo.myhBind.BindView;
-import com.hellochengkai.demo.butterknifedemo.myhBind.MyBindClick;
-import com.hellochengkai.demo.butterknifedemo.myhBind.MyBindView;
-import com.hellochengkai.demo.butterknifedemo.myhBind.MyOnClickListener;
-import com.hellochengkai.demo.butterknifedemo.myhBind.MyOnClickListenerFor;
+import com.hellochengkai.demo.butterknifedemo.myBind.BindView;
+import com.hellochengkai.demo.butterknifedemo.myBind.MyBindClick;
+import com.hellochengkai.demo.butterknifedemo.myBind.MyBindView;
+import com.hellochengkai.demo.butterknifedemo.myBind.MyOnClickListener;
+import com.hellochengkai.demo.butterknifedemo.myBind.MyOnClickListenerFor;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
-
-import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
 

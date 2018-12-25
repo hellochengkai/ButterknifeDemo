@@ -1,4 +1,4 @@
-package com.hellochengkai.demo.butterknifedemo.myhBind;
+package com.hellochengkai.demo.butterknifedemo.myBind;
 
 import android.app.Activity;
 import android.util.Log;

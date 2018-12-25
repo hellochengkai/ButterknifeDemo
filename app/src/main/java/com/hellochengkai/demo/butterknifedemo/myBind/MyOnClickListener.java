@@ -1,4 +1,4 @@
-package com.hellochengkai.demo.butterknifedemo.myhBind;
+package com.hellochengkai.demo.butterknifedemo.myBind;
 
 import android.content.Context;
 import android.util.Log;
@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.hellochengkai.demo.butterknifedemo.R;
-
-import butterknife.OnClick;
 
 /**
  * Created by chengkai on 18-12-24.
